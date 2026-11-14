@@ -1,0 +1,41 @@
+{
+  "authored_date": "2026-11-14",
+  "authoritative_notebook": "F_Pros_Part1_Revision_Notebook_Dr_Kam_O_Man_Owen_Author_Edition(1).pdf",
+  "notebook_pdf_pages": 165,
+  "notebook_html_source_screenshots": 165,
+  "source_render_dimensions": "1191 × 1684 pixels per page (2× PDF rendering)",
+  "chapters": 13,
+  "es_outcomes": 80,
+  "historical_html_unchanged": true,
+  "historical_entries": 228,
+  "historical_extended_models": 10,
+  "book_counts": {
+    "I": 500,
+    "II": 500,
+    "III": 500
+  },
+  "total_sba": 1500,
+  "id_uniqueness": "pass",
+  "question_stem_source_match": "pass",
+  "options_source_match": "pass",
+  "answer_letters_source_match": "pass",
+  "gpt_search_index_records": 3670,
+  "assets_image_groups": 14,
+  "sba_question_data_MB": 4.35,
+  "zip_MB": 19.97,
+  "max_individual_file_MB": 4.35,
+  "static_links": "pass",
+  "js_syntax": "pass",
+  "browser_tests": "isolated Chromium interactive test: practice filters, immediate marking, 90/120 and 2×90/120, results, answer review, glossary search, notebook searching and image rendering; live GitHub Pages + service-worker offline not yet tested",
+  "limitations": [
+    "Question types are heuristic multi-label tags, not official examination categories",
+    "Educational answer keys have not undergone external specialist peer review",
+    "Notebook search text can include PDF extraction spacing artefacts; original page screenshot is authoritative",
+    "Live iPhone Safari service-worker storage cannot be guaranteed; use optional save notebook offline feature",
+    "Existing retired repository source data files are not deleted merely by uploading the new ZIP; cleanup notes provided",
+    "The site has not been deployed to GitHub by this build."
+  ],
+  "packaging": "One complete extract-and-replace ZIP with root-level index.html, assets/ and reference-pdfs/; not a patch",
+  "deployment_check": "healthcheck.html probes 31 core + notebook group files via uncached HEAD requests",
+  "service_worker_version": "fpros-complete-reset-20261114-v3"
+}
