@@ -1,0 +1,530 @@
+[
+  {
+    "id": "FM-001",
+    "es": "5.8;9.2",
+    "stem": "A 34-year-old with palatal wear confined to upper anterior teeth has sensitivity and reduced anterior interocclusal space. Periodontal health and posterior support are satisfactory. Prevention has reduced erosion activity. They request a conservative, repairable solution.",
+    "options": {
+      "A": "Localised additive composite using a Dahl approach",
+      "B": "Full-mouth ceramic crowns at a new OVD",
+      "C": "Elective endodontics and crowns on all six anterior teeth",
+      "D": "Removal of all posterior contacts",
+      "E": "Extract the anterior teeth and provide an implant bridge"
+    },
+    "key": "A",
+    "rationale": "This pattern supports localised additive palatal rehabilitation and planned occlusal adaptation without unnecessarily restoring posterior teeth.",
+    "alternatives": {
+      "B": "Overtreatment of an otherwise supported posterior dentition.",
+      "C": "Unnecessary pulpal and tooth-structure sacrifice.",
+      "D": "Destabilises function instead of providing conservative space.",
+      "E": "Invasive and biologically disproportionate."
+    },
+    "figure": "contacts",
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-002",
+    "es": "3.1;5.4",
+    "stem": "A 61-year-old seeks definitive fixed reconstruction after repeated crown failures. Multiple 6–8 mm periodontal pockets bleed, plaque control is poor and mobility is increasing. A laboratory wax-up looks excellent. What is the most appropriate immediate next step?",
+    "options": {
+      "A": "Commence multi-unit crown preparations",
+      "B": "Complete periodontal diagnosis, disease control and prognosis before fixed reconstruction",
+      "C": "Extract all mobile teeth immediately",
+      "D": "Place definitive bridges after one hygiene visit",
+      "E": "Cement temporary bridges as permanent restorations"
+    },
+    "key": "B",
+    "rationale": "Active periodontal disease must be stabilised and strategic tooth prognosis established before irreversible extensive reconstruction.",
+    "alternatives": {
+      "A": "Biological risk has not been controlled.",
+      "C": "Some teeth may still be maintainable after assessment.",
+      "D": "One hygiene visit does not establish disease stability.",
+      "E": "Avoids diagnosis and definitive planning."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-003",
+    "es": "5.8;9.4",
+    "stem": "A 56-year-old has severe generalised tooth wear and shortened clinical crowns, but serial images show eruption-related adaptation and a reproducible, comfortable MIP. Why is a reduced OVD not established by these findings alone?",
+    "options": {
+      "A": "Short crowns automatically prove collapse",
+      "B": "Any bruxism causes OVD collapse",
+      "C": "Alveolar compensation can preserve vertical dimension despite tooth wear",
+      "D": "Measured freeway space is a fixed diagnostic cut-off",
+      "E": "A visible dentine surface excludes compensation"
+    },
+    "key": "C",
+    "rationale": "Tooth wear and loss of OVD are distinct; compensatory dentoalveolar changes may maintain vertical dimension.",
+    "alternatives": {
+      "A": "Clinical crown height alone is insufficient.",
+      "B": "Wear does not establish vertical change.",
+      "D": "Freeway space is variable and must be contextualised.",
+      "E": "Dentine exposure says nothing decisive about OVD."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-004",
+    "es": "5.8;5.12",
+    "stem": "An extensive fixed treatment is planned at a revised occlusal relationship. Repeated jaw registrations disagree by 2 mm and the mounted contacts cannot be reproduced clinically. The laboratory requests approval to mill the final crowns.",
+    "options": {
+      "A": "Accept the most recent digital record",
+      "B": "Average the three records and mill",
+      "C": "Choose a universally recommended canine guidance",
+      "D": "Verify the patient’s reproducible reference position and record accuracy before irreversible manufacture",
+      "E": "Increase OVD by the discrepancy amount"
+    },
+    "key": "D",
+    "rationale": "A reproducible clinical relationship is required before committing an extensive reorganisation. Audit record and mounting error.",
+    "alternatives": {
+      "A": "Digital data are not necessarily accurate.",
+      "B": "Averaging inconsistent records invents a position.",
+      "C": "Guidance choice cannot repair inaccurate jaw relation.",
+      "E": "Changes space, not the underlying registration problem."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-005",
+    "es": "5.8;9.4",
+    "stem": "A clinician proposes a mandatory three-month removable splint evaluation for every worn dentition before any OVD increase. Which statement best reflects current consensus?",
+    "options": {
+      "A": "A removable splint evaluation is required for all patients",
+      "B": "There is strong evidence evaluation phases improve all patient outcomes",
+      "C": "OVD cannot be increased with direct composite",
+      "D": "The only safe OVD increase is exactly 3 mm",
+      "E": "A fixed provisional/evaluation phase may help with sequencing and expectations, but is not universally mandatory"
+    },
+    "key": "E",
+    "rationale": "The 2025 consensus and review found limited/inconclusive evidence for mandatory evaluation phases; interim fixed restorations can nevertheless be clinically useful.",
+    "alternatives": {
+      "A": "Too absolute.",
+      "B": "Evidence does not establish that universal effect.",
+      "C": "Direct additive approaches can be appropriate.",
+      "D": "No universal numerical increase applies."
+    },
+    "figure": null,
+    "source": "SSRD 2025; Chantler et al. 2025"
+  },
+  {
+    "id": "FM-006",
+    "es": "5.1;11.1",
+    "stem": "A high-load posterior onlay is planned with adequate enamel but only 0.5 mm available clearance. The proposed lithium-disilicate system specifies more space for that indication. What is the best approach?",
+    "options": {
+      "A": "Reassess preparation/space and choose a material/design meeting validated specifications",
+      "B": "Use lithium disilicate at any thickness if bonded",
+      "C": "Use stronger acid to compensate for limited thickness",
+      "D": "Reduce opposing sound teeth routinely",
+      "E": "Select translucent zirconia because all zirconias share one minimum thickness"
+    },
+    "key": "A",
+    "rationale": "A restoration requires material- and indication-specific minimum dimensions; redesign or alternative material before committing.",
+    "alternatives": {
+      "B": "Bonding does not erase thickness requirements.",
+      "C": "Conditioning cannot restore missing bulk.",
+      "D": "Potentially unnecessary antagonist sacrifice.",
+      "E": "Different zirconias and systems have differing specifications."
+    },
+    "figure": "space",
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-007",
+    "es": "5.3;5.4",
+    "stem": "A root-filled anterior tooth is planned as an abutment for a full-mouth bridge. Only 0.5 mm circumferential sound dentine remains above bone. Crown lengthening would severely worsen crown-root proportion and the adjacent aesthetic margin. What is the most appropriate action?",
+    "options": {
+      "A": "Assume a long post substitutes for ferrule",
+      "B": "Reassess strategic restoratability and consider extrusion or an alternative abutment plan",
+      "C": "Perform crown lengthening regardless of periodontal cost",
+      "D": "Use a flexible post to strengthen the root",
+      "E": "Place crown margins further apical without discussing tissues"
+    },
+    "key": "B",
+    "rationale": "Ferrule cannot be gained at any biological cost; compare extrusion, restoration redesign and extraction after prognosis assessment.",
+    "alternatives": {
+      "A": "Posts retain cores but do not replace coronal dentine.",
+      "C": "May harm support and aesthetics.",
+      "D": "Post modulus is not a substitute for ferrule.",
+      "E": "Risks violation of supracrestal tissue attachment."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-008",
+    "es": "5.12;11.2",
+    "stem": "A layered implant-supported posterior bridge chips for the third time in four years. Occlusal photographs show repeated eccentric contact on unsupported veneering porcelain and the patient reports clenching. What should be prioritised?",
+    "options": {
+      "A": "Remake an identical layered bridge",
+      "B": "Treat the failure as random porcelain contamination",
+      "C": "Address the occlusal/design problem and select a suitable retrievable restoration",
+      "D": "Increase cusp height to guide the mandible",
+      "E": "Place stronger cement under the existing bridge"
+    },
+    "key": "C",
+    "rationale": "Recurrent fracture requires examination of load, framework support and restorative design rather than automatic replacement in like-for-like form.",
+    "alternatives": {
+      "A": "Likely repeats the failure mechanism.",
+      "B": "Ignores objective loading data.",
+      "D": "May increase lateral force.",
+      "E": "Does not correct ceramic fracture mechanics."
+    },
+    "figure": "load",
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-009",
+    "es": "9.1;9.2",
+    "stem": "Six BEWE sextant scores are shown in Schematic C. A patient has no sensitivity and serial photographs show stability. What does a total BEWE score of 7 establish?",
+    "options": {
+      "A": "A diagnosis of bruxism",
+      "B": "An automatic indication for full-mouth crowns",
+      "C": "Proof of active progression",
+      "D": "Severity of erosive wear screening requiring contextual assessment, not a treatment prescription",
+      "E": "The exact annual micrometre loss of enamel"
+    },
+    "key": "D",
+    "rationale": "BEWE is an erosive-wear screening/index score; severity must be contextualised with symptoms, causes and serial data.",
+    "alternatives": {
+      "A": "BEWE is not a bruxism diagnosis.",
+      "B": "It does not dictate prosthesis choice.",
+      "C": "A single score does not prove progression.",
+      "E": "It is not a quantitative volumetric measurement."
+    },
+    "figure": "wear",
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-010",
+    "es": "5.5;5.8",
+    "stem": "A full-mouth diagnostic wax-up is accepted aesthetically, but intraoral provisional closure shifts to the right. The clinical CR–MIP slide differs from the mounting record. What is the most appropriate next action?",
+    "options": {
+      "A": "Finish the definitive work using the wax-up",
+      "B": "Equilibrate natural teeth immediately to the articulator",
+      "C": "Ignore the shift because virtual models are more reliable",
+      "D": "Create a longer zirconia bridge to prevent movement",
+      "E": "Confirm the jaw record, provisional fit, reproducibility and functional contacts"
+    },
+    "key": "E",
+    "rationale": "Disagreement between models and mouth is a signal to investigate recording and provisional errors before irreversible treatment.",
+    "alternatives": {
+      "A": "Propagates a potentially incorrect plan.",
+      "B": "Irreversible intervention without diagnosis.",
+      "C": "An inaccurate record remains inaccurate digitally.",
+      "D": "Connector length does not correct occlusion."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-011",
+    "es": "3.3;5.10",
+    "stem": "A patient is considering full-mouth crowns versus limited composite rehabilitation. Both are clinically feasible, but cost and future repairability are major priorities. What is the essential consent content?",
+    "options": {
+      "A": "Expected maintenance, future replacement risk, biological costs and alternatives including non-treatment",
+      "B": "Only the initial fee and colour",
+      "C": "Only the laboratory warranty",
+      "D": "A statement that crowns cannot fail",
+      "E": "A clinician decision without patient priorities"
+    },
+    "key": "A",
+    "rationale": "Shared decision-making includes maintenance, biological and financial risks and reasonable options.",
+    "alternatives": {
+      "B": "Omits long-term consequences.",
+      "C": "Warranty is not outcome counselling.",
+      "D": "Incorrect guarantee.",
+      "E": "Ignores informed patient values."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-012",
+    "es": "5.8;5.12",
+    "stem": "A patient with worn dentition has intermittent locking and painful limited mouth opening. A full-mouth reorganisation is requested to “correct the bite.” What is the best next step?",
+    "options": {
+      "A": "Grind to centric relation immediately",
+      "B": "Diagnose the jaw disorder, screen red flags and use appropriate conservative management/referral before extensive reconstruction",
+      "C": "Begin irreversible crown preparations",
+      "D": "Increase OVD until opening normalises",
+      "E": "Extract posterior teeth to unload the joint"
+    },
+    "key": "B",
+    "rationale": "Active undiagnosed orofacial pain/joint pathology warrants assessment before irreversible occlusal changes.",
+    "alternatives": {
+      "A": "Unjustified irreversible treatment.",
+      "C": "Diagnostic uncertainty remains.",
+      "D": "OVD is not a proven treatment for locking.",
+      "E": "Severe and unsupported."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-013",
+    "es": "5.5;13.1",
+    "stem": "A full-mouth digital wax-up shows excellent virtual contacts. During try-in the patient has a large unilateral premature contact. What principle best explains the discrepancy?",
+    "options": {
+      "A": "Virtual articulation guarantees intraoral accuracy",
+      "B": "The crown shade changes occlusion",
+      "C": "Scanning/registration and jaw relation may contain error; verify clinically",
+      "D": "Occlusal contact is irrelevant to patient function",
+      "E": "The deviation proves facial bone loss"
+    },
+    "key": "C",
+    "rationale": "Virtual articulation is a clinical planning aid and must be validated against an actual, repeatable mandibular relationship.",
+    "alternatives": {
+      "A": "Overstates digital precision.",
+      "B": "No causal link.",
+      "D": "Contacts are relevant.",
+      "E": "Finding does not identify bone change."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-014",
+    "es": "5.3;5.7",
+    "stem": "A proposed 14-unit fixed reconstruction involves deep subgingival crown margins on periodontally compromised teeth. The technician reports that a cleanable design is impossible at the planned contours. What is the best intervention?",
+    "options": {
+      "A": "Proceed because patients can floss later",
+      "B": "Use more radiopaque cement",
+      "C": "Place all margins even deeper for aesthetics",
+      "D": "Redesign margins and restorative contours, reconsidering treatment suitability before preparation",
+      "E": "Replace with the same design in zirconia"
+    },
+    "key": "D",
+    "rationale": "Aesthetic objectives must be balanced with periodontal health, restorative access and maintainability.",
+    "alternatives": {
+      "A": "Does not remedy inaccessible contours.",
+      "B": "Cement choice cannot fix contours.",
+      "C": "Increases tissue risk.",
+      "E": "Material substitution does not fix design."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-015",
+    "es": "5.8",
+    "stem": "A patient has a stable MIP, suitable interocclusal space and an isolated defective molar crown. No other tooth requires restoration. Which occlusal approach is most appropriate?",
+    "options": {
+      "A": "Routine reorganised full-mouth scheme",
+      "B": "Raise OVD on all teeth",
+      "C": "Equilibrate the opposite arch to retruded contact position",
+      "D": "Provide a full-mouth interim appliance before the crown",
+      "E": "Conform to the stable existing MIP and guidance"
+    },
+    "key": "E",
+    "rationale": "A conformative approach is usually appropriate when the existing scheme is functional, stable and compatible with the local restoration.",
+    "alternatives": {
+      "A": "Unnecessary complexity.",
+      "B": "No broader space indication.",
+      "C": "Irreversible without justification.",
+      "D": "Adds treatment without clinical need."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-016",
+    "es": "3.2;5.5",
+    "stem": "A patient with generalised wear needs major restorative changes but will be treated quadrant-by-quadrant. Which sequence best reduces loss of occlusal reference during rehabilitation?",
+    "options": {
+      "A": "Maintain reproducible reference stops with staged provisionals and verify each segment against the approved plan",
+      "B": "Prepare all quadrants and remove every stop at the first visit",
+      "C": "Guess contacts by patient comfort after cementation",
+      "D": "Use unrecorded elastomeric bite material only",
+      "E": "Rely on virtual articulation and do not check clinically"
+    },
+    "key": "A",
+    "rationale": "Staged rehabilitation should preserve predictable jaw relation and stable references, with provisional assessment before committing later segments.",
+    "alternatives": {
+      "B": "Creates uncontrolled loss of support.",
+      "C": "Unsatisfactory reference.",
+      "D": "Records and verification are essential.",
+      "E": "Digital tools do not eliminate chairside validation."
+    },
+    "figure": "follow",
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-017",
+    "es": "9.1;3.1",
+    "stem": "A 49-year-old has glossy palatal erosion, recurrent sour taste at night and no posterior wear facets. They request veneers. What should the plan prioritise?",
+    "options": {
+      "A": "Full-mouth crowns before investigating cause",
+      "B": "Manage possible intrinsic acid exposure and disease activity, then consider proportionate restorations",
+      "C": "Increase OVD irrespective of symptoms",
+      "D": "Use only an occlusal splint because all wear is bruxism",
+      "E": "Extract palatally worn incisors"
+    },
+    "key": "B",
+    "rationale": "The clinical pattern suggests intrinsic acid exposure requiring medical assessment as appropriate alongside prevention and restorative planning.",
+    "alternatives": {
+      "A": "Failure to address driving factor.",
+      "C": "OVD is not the primary cause treatment.",
+      "D": "Aetiology is not primarily attritional.",
+      "E": "Unnecessarily invasive."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-018",
+    "es": "5.3;11.1",
+    "stem": "A clinician proposes full-coverage zirconia crowns for all sound premolars simply because anterior veneers will be placed and the posterior occlusion is stable. What is the best evaluation?",
+    "options": {
+      "A": "Posterior coverage is automatically required",
+      "B": "Restore all teeth to achieve uniform material",
+      "C": "Prefer a minimally invasive anterior plan without unnecessary posterior preparations",
+      "D": "Place an implant in each quadrant to share load",
+      "E": "Remove posterior enamel to avoid potential future complications"
+    },
+    "key": "C",
+    "rationale": "Treatment extent must be driven by patient-specific problems; sound posterior teeth should not be sacrificed without indication.",
+    "alternatives": {
+      "A": "Contradicts tissue preservation.",
+      "B": "Material uniformity is not justification.",
+      "D": "Biologically excessive.",
+      "E": "Predictive prophylactic preparation is unsupported."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-019",
+    "es": "5.10;5.11",
+    "stem": "Five years after full-mouth rehabilitation the crowns remain cemented, but three teeth develop recurrent caries and chronic gingival inflammation. What best describes treatment success?",
+    "options": {
+      "A": "All crowns are successful because they remain in place",
+      "B": "Only porcelain colour determines success",
+      "C": "Occlusal design is irrelevant to maintenance",
+      "D": "Survival must be distinguished from biological and patient-centred success",
+      "E": "A radiograph is never needed once crowns are seated"
+    },
+    "key": "D",
+    "rationale": "Restoration survival alone does not establish biological health or patient-centred success.",
+    "alternatives": {
+      "A": "Ignores disease.",
+      "B": "Aesthetics is only one domain.",
+      "C": "Load and cleansability influence outcomes.",
+      "E": "Investigations are justified by clinical findings."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-020",
+    "es": "5.8;9.4",
+    "stem": "A colleague says every patient requires a “minimum 5 mm OVD increase” to reconstruct severe wear, citing a published clinical review. What is the most defensible correction?",
+    "options": {
+      "A": "A fixed number is valid for everyone",
+      "B": "No increase is ever possible",
+      "C": "Only an arbitrary articulator pin increase is relevant",
+      "D": "The patient should choose the millimetres without diagnostic input",
+      "E": "The change should be individually planned from anatomy, function, restorative space and goals, with provisional assessment when useful"
+    },
+    "key": "E",
+    "rationale": "Evidence does not establish one OVD change that is mandatory or safe for every individual.",
+    "alternatives": {
+      "A": "Unjustified rule.",
+      "B": "Contradicts successful clinical approaches.",
+      "C": "Articulator pin does not define clinical adaptation.",
+      "D": "Choice is shared but must be clinically informed."
+    },
+    "figure": null,
+    "source": "SSRD 2025; Chantler et al. 2025"
+  },
+  {
+    "id": "FM-021",
+    "es": "5.6;11.1",
+    "stem": "An adhesively retained restoration is planned on mostly enamel but the laboratory recommends unetched zirconia because it has higher flexural strength. What is the most appropriate reasoning?",
+    "options": {
+      "A": "Substrate adhesion, geometry, material processing and thickness must be considered together",
+      "B": "Strength alone determines clinical choice",
+      "C": "All ceramics require identical hydrofluoric conditioning",
+      "D": "Enamel is clinically irrelevant",
+      "E": "Monolithic zirconia always eliminates failures"
+    },
+    "key": "A",
+    "rationale": "Restorative selection integrates retention, bonding substrate, material-specific protocol and design rather than flexural strength alone.",
+    "alternatives": {
+      "B": "Excludes important factors.",
+      "C": "Incorrect for zirconia.",
+      "D": "Substrate influences bonding.",
+      "E": "Overstates material guarantees."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-022",
+    "es": "5.5;5.8",
+    "stem": "A full-mouth diagnostic wax-up is transferred to fixed provisionals. The patient develops persistent lisping and cannot achieve the closest speaking space noted before treatment. What is the best response?",
+    "options": {
+      "A": "Ignore speech and cement the definitive restorations",
+      "B": "Reassess tooth position, incisal contours, OVD and provisional function, adjusting the design before final transfer",
+      "C": "Increase only posterior crowns immediately",
+      "D": "Extract incisors to avoid phonetic issues",
+      "E": "Assume adaptation will always occur without review"
+    },
+    "key": "B",
+    "rationale": "Provisionals can reveal functional/phonetic discrepancies; the plan should be modified on measured findings.",
+    "alternatives": {
+      "A": "Ignores treatment objective.",
+      "C": "Does not establish cause.",
+      "D": "Excessive.",
+      "E": "Uncertain and dismisses patient impact."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-023",
+    "es": "3.1;5.3",
+    "stem": "In a planned full-mouth fixed reconstruction, an asymptomatic mandibular molar is missing while remaining posterior units provide stable function. The patient has limited funds and no aesthetic demand at that site. What is the most appropriate treatment-planning principle?",
+    "options": {
+      "A": "Every missing tooth must be replaced",
+      "B": "Implant placement is compulsory in a comprehensive case",
+      "C": "No replacement may be reasonable after assessing function, risk and preferences",
+      "D": "Restore all abutments with crowns first",
+      "E": "Avoid discussing maintenance because the site is posterior"
+    },
+    "key": "C",
+    "rationale": "Shortened dental-arch function and patient priorities may justify nonreplacement with review, when clinically appropriate.",
+    "alternatives": {
+      "A": "Too categorical.",
+      "B": "Unnecessary surgical intervention.",
+      "D": "No independent indication.",
+      "E": "Maintenance discussion remains relevant."
+    },
+    "figure": null,
+    "source": "DSFE; SSRD 2025"
+  },
+  {
+    "id": "FM-024",
+    "es": "2.1;5.5",
+    "stem": "Before a complex fixed reconstruction, a specialist has recent appropriate periapicals and bitewings, stable medical history, and no clinical or radiographic reason for three-dimensional imaging. A colleague recommends routine full-arch CBCT to “complete the dataset.” Which approach is best?",
+    "options": {
+      "A": "Take CBCT for every full-mouth reconstruction",
+      "B": "Use CBCT because it carries no radiation",
+      "C": "Always obtain both full-head CBCT and a panoramic image",
+      "D": "Justify imaging based on the specific clinical question and use existing adequate records",
+      "E": "Avoid any radiographs regardless of dental disease"
+    },
+    "key": "D",
+    "rationale": "Use individually justified imaging; do not undertake 3D imaging for convenience alone when lower-dose records meet the clinical need.",
+    "alternatives": {
+      "A": "Inappropriately routine.",
+      "B": "False radiation claim.",
+      "C": "Unnecessary additional exposure.",
+      "E": "Can miss clinically indicated information."
+    },
+    "figure": null,
+    "source": "DSFE; ADA/AAOMR 2026"
+  }
+]
