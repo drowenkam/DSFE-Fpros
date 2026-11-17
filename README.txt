@@ -1,12 +1,19 @@
-# DSFE F Pros — All 1,500 pool default fix (17 November 2026)
+DSFE F Pros verified release | 17 November 2026
 
-Issue reproduced on the previous site: 397 questions in the selected pool with two restrictive default filters.
+Package contents:
+- index.html : full self-contained study website, 1500 SBA records (500 per book), notebook, historical answers, glossary, embedded supplement and weekly guide
+- START_HERE.html : lightweight launch page with obvious links to 1500 pool and both PDFs
+- FPros_Guideline_Supplement_2026-11-17.pdf : 8 pages
+- FPros_Weekly_Revision_Guide_2026-11-17.pdf : 3 pages
+- QA_VERIFICATION.txt : checks and limitations
 
-QA triage set to all but option-family dedup retained: 489.
-Both filters off: 1,500 (500 each across Books I, II and III).
+GitHub Pages install: unzip, upload the four website files to repository root (replace index.html; files with matching names may already exist). Open START_HERE.html using a fresh browser link to bypass stale cached homepage.
 
-Correction: both filters now default to ALL; new "Show all 1,500 questions" reset button checks all book/domain/type boxes, resets QA and case-independence filters and resets the question-history selector.
+Verified locally with extracted ZIP and headless Chromium at desktop and mobile viewports:
+- default question pool 1500 (500 Book I, II and III)
+- optional generic+one-per-family filtering gives 397
+- reset control returns to 1500
+- guideline section renders and both embedded PDF buttons download valid 8-page and 3-page PDFs
+- practice session opens; zero page-script errors
 
-The "397" subset remains accessible through optional filters. These are 1,500 question IDs, not 1,500 independently validated clinical decisions. No question/answer payload, notebook, historical materials or embedded guidelines has been altered in this patch. Existing study progress storage keys unchanged.
-
-To install: replace only the root index.html on the existing DSFE-Fpros GitHub Pages repository. Do not upload ZIP itself as a single item. Browser may need hard refresh after deployment.
+Validation limitations: local tests do not prove the live GitHub Pages build is published or that iPhone Safari works; existing SBA clinical keys remain largely unverified.

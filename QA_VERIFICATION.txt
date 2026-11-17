@@ -1,0 +1,25 @@
+DSFE F Pros verified release | 17 November 2026
+
+Package contents:
+- index.html : full self-contained study website, 1500 SBA records (500 per book), notebook, historical answers, glossary, embedded supplement and weekly guide
+- START_HERE.html : lightweight launch page with obvious links to 1500 pool and both PDFs
+- FPros_Guideline_Supplement_2026-11-17.pdf : 8 pages
+- FPros_Weekly_Revision_Guide_2026-11-17.pdf : 3 pages
+- QA_VERIFICATION.txt : checks and limitations
+
+GitHub Pages install: unzip, upload the four website files to repository root (replace index.html; files with matching names may already exist). Open START_HERE.html using a fresh browser link to bypass stale cached homepage.
+
+Verified locally with extracted ZIP and headless Chromium at desktop and mobile viewports:
+- default question pool 1500 (500 Book I, II and III)
+- optional generic+one-per-family filtering gives 397
+- reset control returns to 1500
+- guideline section renders and both embedded PDF buttons download valid 8-page and 3-page PDFs
+- practice session opens; zero page-script errors
+
+Validation limitations: local tests do not prove the live GitHub Pages build is published or that iPhone Safari works; existing SBA clinical keys remain largely unverified.
+
+Source index Git blob SHA: 4b618acb283d07f7a8c5778460e6c04c3b176f8e
+HTML bytes: 24444518
+Supplement bytes: 96430
+Weekly guide bytes: 73858
+ZIP archive CRC verified: YES
