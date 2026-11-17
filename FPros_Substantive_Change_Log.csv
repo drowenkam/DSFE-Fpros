@@ -1,0 +1,428 @@
+﻿id,book,kind,old_key,new_key,old_es,new_es,subject,source
+FP27-II-081,II,source-anchored new scenario,E,C,3.1,3.1,RDITN component aggregation,https://www.rcseng.ac.uk/-/media/Files/RCS/FDS/Publications/complexityassessment.pdf
+FP27-II-233,II,source-anchored new scenario,E,B,3.1,3.1,RDITN noncumulative modifiers,https://www.rcseng.ac.uk/-/media/Files/RCS/FDS/Publications/complexityassessment.pdf
+FP27-II-188,II,source-anchored new scenario,E,B,3.2,3.2,RDITN versus NHS care levels,https://www.england.nhs.uk/wp-content/uploads/2022/10/B1640-clinical-standard-restorative-dentistry.pdf
+FP27-II-134,II,source-anchored new scenario,E,C,3.4,3.4,RDITN and patient-centred planning,https://www.rcseng.ac.uk/-/media/Files/RCS/FDS/Publications/complexityassessment.pdf
+FP27-II-142,II,source-anchored new scenario,E,B,4.2,4.2,DOAC twice-daily apixaban,https://companion.sdcep.org.uk/management-of-dental-patients-taking-anticoagulants-or-antiplatelet-drugs/treatment-recommendations/direct-oral-anticoagulants-doacs/higher-risk-of-bleeding-complications/
+FP27-II-415,II,source-anchored new scenario,C,A,4.2,4.2,Evening rivaroxaban and dental flap,https://companion.sdcep.org.uk/management-of-dental-patients-taking-anticoagulants-or-antiplatelet-drugs/treatment-recommendations/direct-oral-anticoagulants-doacs/higher-risk-of-bleeding-complications/
+FP27-II-079,II,source-anchored new scenario,C,C,4.2,4.2,Infectious versus offensive dental waste,https://www.gov.uk/guidance/healthcare-and-related-wastes-how-to-classify
+FP27-II-262,II,source-anchored new scenario,B,B,4.2,4.2,Noninfectious PPE waste segregation,https://www.gov.uk/guidance/healthcare-and-related-wastes-how-to-classify
+FP27-II-199,II,source-anchored new scenario,C,B,7.6,7.15,Peri-implant mucositis versus peri-implantitis,https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13823
+FP27-II-365,II,source-anchored new scenario,E,C,7.9,7.15,Peri-implantitis sequence,https://onlinelibrary.wiley.com/doi/10.1111/jcpe.13823
+FP27-II-439,II,source-anchored new scenario,B,D,7.17,7.10,Implant placement versus loading,https://dsfe.org.uk/prosthodontics/
+FP27-II-435,II,source-anchored new scenario,B,C,12.1,12.1,Avulsion in the primary dentition,https://iadt-dentaltrauma.org/guidelines-and-resources/guidelines/
+FP27-II-109,II,source-anchored new scenario,B,B,12.4,12.2,Avulsion permanent immature tooth,https://iadt-dentaltrauma.org/guidelines-and-resources/guidelines/
+FP27-II-117,II,source-anchored new scenario,B,C,12.4,12.2,Crown fracture follow-up distinction,https://iadt-dentaltrauma.org/guidelines-and-resources/guidelines/
+FP27-II-347,II,source-anchored new scenario,A,C,11.1,11.1,Zirconia adhesion,https://dsfe.org.uk/prosthodontics/
+FP27-II-113,II,source-anchored new scenario,A,B,11.2,11.1,Lithium disilicate bonding,https://dsfe.org.uk/prosthodontics/
+FP27-II-183,II,source-anchored new scenario,C,B,11.2,11.2,Ceramic connector mechanics,https://dsfe.org.uk/prosthodontics/
+FP27-II-311,II,source-anchored new scenario,C,B,13.1,13.1,Implant scan body compatibility,https://dsfe.org.uk/prosthodontics/
+FP27-II-125,II,source-anchored new scenario,E,B,13.1,13.1,Digital full-arch scan distortion,https://dsfe.org.uk/prosthodontics/
+FP27-II-186,II,source-anchored new scenario,B,B,13.2,13.2,CBCT-surface scan registration for guided surgery,https://dsfe.org.uk/prosthodontics/
+FP27-II-237,II,source-anchored new scenario,E,C,13.2,13.2,STL versus DICOM information,https://dsfe.org.uk/prosthodontics/
+FP27-II-175,II,source-anchored new scenario,D,B,9.7,9.1,BEWE interpretation and monitoring,https://dsfe.org.uk/prosthodontics/
+FP27-II-089,II,source-anchored new scenario,A,B,9.4,9.7,Dahl concept candidacy,https://dsfe.org.uk/prosthodontics/
+FP27-II-292,II,source-anchored new scenario,B,B,9.6,9.3,Erosive-wear cause control,https://dsfe.org.uk/prosthodontics/
+FP27-II-164,II,source-anchored new scenario,E,B,5.7,5.2,Ferrule and post retention,https://dsfe.org.uk/prosthodontics/
+FP27-II-230,II,source-anchored new scenario,D,B,5.11,5.6,Anterior resin-bonded bridge design,https://dsfe.org.uk/prosthodontics/
+FP27-II-332,II,source-anchored new scenario,C,B,5.5,5.3,Cracked tooth localisation,https://dsfe.org.uk/prosthodontics/
+FP27-II-234,II,source-anchored new scenario,E,A,6.2,6.2,Distal-extension RPD indirect retention,https://dsfe.org.uk/prosthodontics/
+FP27-II-138,II,source-anchored new scenario,B,B,6.5,6.5,Complete denture neutral zone,https://dsfe.org.uk/prosthodontics/
+FP27-II-417,II,source-anchored new scenario,D,B,6.4,6.4,Combination syndrome diagnostic pattern,https://dsfe.org.uk/prosthodontics/
+FP27-II-084,II,source-anchored new scenario,A,B,8.2,8.1,Neuropathic versus masticatory muscle pain,https://dsfe.org.uk/prosthodontics/
+FP27-II-104,II,source-anchored new scenario,A,A,8.3,8.3,Disc displacement without reduction,https://dsfe.org.uk/prosthodontics/
+FP27-II-085,II,source-anchored new scenario,B,B,10.3,10.3,Metamerism after central crown try-in,https://dsfe.org.uk/prosthodontics/
+FP27-II-300,II,source-anchored new scenario,C,B,10.1,10.1,Orthodontic white spot initial care,https://dsfe.org.uk/prosthodontics/
+FP27-II-123,II,source-anchored new scenario,B,B,1.5,1.4,Test prevalence and positive predictive value,https://dsfe.org.uk/prosthodontics/
+FP27-II-285,II,source-anchored new scenario,C,B,2.1,2.1,CBCT justification after conventional imaging,https://dsfe.org.uk/prosthodontics/
+FP27-II-061,II,source-anchored new scenario,B,A,2.2,2.2,Reliability versus validity,https://dsfe.org.uk/prosthodontics/
+FP27-II-383,II,reconstructed duplicate as contrast case,D,C,3.2,3.2,Prosthodontic judgement — 3.2,existing bank rationale; not externally validated
+FP27-269,I,reconstructed duplicate as contrast case,D,B,6.7,6.7,Occlusal records and complete denture instability,existing bank rationale; not externally validated
+FP27-II-334,II,reconstructed duplicate as contrast case,A,D,3.3,3.3,Prosthodontic judgement — 3.3,existing bank rationale; not externally validated
+FP27-II-437,II,reconstructed duplicate as contrast case,A,B,6.6,6.6,Prosthodontic judgement — 6.6,existing bank rationale; not externally validated
+FP27-235,I,reconstructed duplicate as contrast case,B,C,3.1,3.1,Prognosis of strategic abutments,existing bank rationale; not externally validated
+FP27-II-392,II,reconstructed duplicate as contrast case,E,A,1.1,1.1,Prosthodontic judgement — 1.1,existing bank rationale; not externally validated
+FP27-450,I,reconstructed duplicate as contrast case,B,D,1.4,1.4,Evidence appraisal and test interpretation,existing bank rationale; not externally validated
+FP27-373,I,reconstructed duplicate as contrast case,B,A,3.2,3.2,Referral boundaries and complexity,existing bank rationale; not externally validated
+FP27-II-217,II,reconstructed duplicate as contrast case,C,E,3.2,3.2,Prosthodontic judgement — 3.2,existing bank rationale; not externally validated
+FP27-II-116,II,reconstructed duplicate as contrast case,B,C,2.3,2.3,Prosthodontic judgement — 2.3,existing bank rationale; not externally validated
+FP27-II-401,II,reconstructed duplicate as contrast case,A,E,2.1,2.1,Prosthodontic judgement — 2.1,existing bank rationale; not externally validated
+FP27-II-388,II,reconstructed duplicate as contrast case,B,D,3.4,3.4,Prosthodontic judgement — 3.4,existing bank rationale; not externally validated
+FP27-407,I,reconstructed duplicate as contrast case,A,E,2.1,2.1,Implant imaging justification,existing bank rationale; not externally validated
+FP27-II-345,II,reconstructed duplicate as contrast case,B,A,2.2,2.2,Prosthodontic judgement — 2.2,existing bank rationale; not externally validated
+FP27-II-193,II,reconstructed duplicate as contrast case,D,C,2.3,2.3,Prosthodontic judgement — 2.3,existing bank rationale; not externally validated
+FP27-II-323,II,reconstructed duplicate as contrast case,E,A,2.2,2.2,Prosthodontic judgement — 2.2,existing bank rationale; not externally validated
+FP27-II-204,II,reconstructed duplicate as contrast case,E,C,6.1,6.1,Prosthodontic judgement — 6.1,existing bank rationale; not externally validated
+FP27-II-265,II,reconstructed duplicate as contrast case,B,A,3.3,3.3,Prosthodontic judgement — 3.3,existing bank rationale; not externally validated
+FP27-II-298,II,reconstructed duplicate as contrast case,D,E,1.5,1.5,Prosthodontic judgement — 1.5,existing bank rationale; not externally validated
+FP27-360,I,reconstructed duplicate as contrast case,E,C,1.4,1.4,Diagnostic uncertainty in a painful posterior tooth,existing bank rationale; not externally validated
+FP27-473,I,reconstructed duplicate as contrast case,D,E,3.1,3.1,Treatment sequencing in a failing dentition,existing bank rationale; not externally validated
+FP27-II-250,II,reconstructed duplicate as contrast case,D,B,3.3,3.3,Prosthodontic judgement — 3.3,existing bank rationale; not externally validated
+FP27-II-426,II,reconstructed duplicate as contrast case,C,D,1.1,1.1,Prosthodontic judgement — 1.1,existing bank rationale; not externally validated
+FP27-II-400,II,reconstructed duplicate as contrast case,E,A,6.1,6.1,Prosthodontic judgement — 6.1,existing bank rationale; not externally validated
+FP27-II-106,II,reconstructed duplicate as contrast case,E,D,2.2,2.2,Prosthodontic judgement — 2.2,existing bank rationale; not externally validated
+FP27-II-385,II,reconstructed duplicate as contrast case,C,B,5.1,5.1,Prosthodontic judgement — 5.1,existing bank rationale; not externally validated
+FP27-II-179,II,reconstructed duplicate as contrast case,B,D,10.2,10.2,Prosthodontic judgement — 10.2,existing bank rationale; not externally validated
+FP27-339,I,reconstructed duplicate as contrast case,A,D,3.1,3.1,Prognosis of strategic abutments,existing bank rationale; not externally validated
+FP27-357,I,reconstructed duplicate as contrast case,D,C,3.1,3.1,Treatment sequencing in a failing dentition,existing bank rationale; not externally validated
+FP27-II-367,II,reconstructed duplicate as contrast case,B,A,2.2,2.2,Prosthodontic judgement — 2.2,existing bank rationale; not externally validated
+FP27-II-384,II,reconstructed duplicate as contrast case,D,E,3.4,3.4,Prosthodontic judgement — 3.4,existing bank rationale; not externally validated
+FP27-II-276,II,reconstructed duplicate as contrast case,C,E,6.9,6.9,Prosthodontic judgement — 6.9,existing bank rationale; not externally validated
+FP27-II-339,II,reconstructed duplicate as contrast case,B,A,2.2,2.2,Prosthodontic judgement — 2.2,existing bank rationale; not externally validated
+FP27-II-242,II,reconstructed duplicate as contrast case,C,B,1.1,1.1,Prosthodontic judgement — 1.1,existing bank rationale; not externally validated
+FP27-II-033,II,reconstructed duplicate as contrast case,C,B,1.2,1.2,Prosthodontic judgement — 1.2,existing bank rationale; not externally validated
+FP27-457,I,reconstructed duplicate as contrast case,A,C,3.1,3.1,Risk-based fixed versus implant versus removable,existing bank rationale; not externally validated
+FP27-II-133,II,reconstructed duplicate as contrast case,C,D,10.3,10.3,Prosthodontic judgement — 10.3,existing bank rationale; not externally validated
+FP27-II-310,II,reconstructed duplicate as contrast case,A,C,2.2,2.2,Prosthodontic judgement — 2.2,existing bank rationale; not externally validated
+FP27-II-025,II,reconstructed duplicate as contrast case,B,E,6.3,6.3,Prosthodontic judgement — 6.3,existing bank rationale; not externally validated
+FP27-II-307,II,reconstructed duplicate as contrast case,A,E,3.3,3.3,Prosthodontic judgement — 3.3,existing bank rationale; not externally validated
+FP27-II-225,II,reconstructed duplicate as contrast case,D,A,1.2,1.2,Prosthodontic judgement — 1.2,existing bank rationale; not externally validated
+FP27-II-352,II,reconstructed duplicate as contrast case,D,C,5.5,5.5,Prosthodontic judgement — 5.5,existing bank rationale; not externally validated
+FP27-II-228,II,reconstructed duplicate as contrast case,D,C,1.1,1.1,Prosthodontic judgement — 1.1,existing bank rationale; not externally validated
+FP27-II-358,II,reconstructed duplicate as contrast case,C,D,5.7,5.7,Prosthodontic judgement — 5.7,existing bank rationale; not externally validated
+FP27-II-390,II,reconstructed duplicate as contrast case,A,B,3.4,3.4,Prosthodontic judgement — 3.4,existing bank rationale; not externally validated
+FP27-003,I,nonclinical boilerplate removed,E,E,10.1,10.1,Anterior tooth proportions and gingival architecture,editorial clarity; clinical meaning unchanged
+FP27-009,I,nonclinical boilerplate removed,B,B,9.9,9.9,Direct versus indirect laboratory prescriptions for wear,editorial clarity; clinical meaning unchanged
+FP27-024,I,nonclinical boilerplate removed,D,D,3.4,3.4,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-026,I,nonclinical boilerplate removed,B,B,9.8,9.8,Restoration survival and maintenance after erosive wear,editorial clarity; clinical meaning unchanged
+FP27-039,I,nonclinical boilerplate removed,A,A,1.1,1.1,Residual ridge and prosthesis choice,editorial clarity; clinical meaning unchanged
+FP27-045,I,nonclinical boilerplate removed,C,C,2.1,2.1,Occlusal records and articulator interpretation,editorial clarity; clinical meaning unchanged
+FP27-046,I,nonclinical boilerplate removed,B,B,2.1,2.1,Occlusal records and articulator interpretation,editorial clarity; clinical meaning unchanged
+FP27-054,I,nonclinical boilerplate removed,E,E,2.1,2.1,Occlusal records and articulator interpretation,editorial clarity; clinical meaning unchanged
+FP27-072,I,nonclinical boilerplate removed,D,D,3.4,3.4,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-074,I,nonclinical boilerplate removed,D,D,2.1,2.1,Occlusal records and articulator interpretation,editorial clarity; clinical meaning unchanged
+FP27-129,I,nonclinical boilerplate removed,E,E,10.2,10.2,Aesthetic repair versus replacement,editorial clarity; clinical meaning unchanged
+FP27-151,I,nonclinical boilerplate removed,E,E,3.4,3.4,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-168,I,nonclinical boilerplate removed,A,A,5.6,5.6,Indirect material selection against substrate and space,editorial clarity; clinical meaning unchanged
+FP27-209,I,nonclinical boilerplate removed,A,A,1.4,1.4,Evidence appraisal and test interpretation,editorial clarity; clinical meaning unchanged
+FP27-234,I,nonclinical boilerplate removed,D,D,7.12,7.12,Implant prosthesis complications and retrievability,editorial clarity; clinical meaning unchanged
+FP27-253,I,nonclinical boilerplate removed,E,E,10.3,10.3,Soft-tissue risk in anterior aesthetic cases,editorial clarity; clinical meaning unchanged
+FP27-263,I,nonclinical boilerplate removed,B,B,3.3,3.3,Treatment sequencing in a failing dentition,editorial clarity; clinical meaning unchanged
+FP27-265,I,nonclinical boilerplate removed,D,D,3.3,3.3,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-277,I,nonclinical boilerplate removed,C,C,3.4,3.4,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-309,I,nonclinical boilerplate removed,B,B,9.2,9.2,"Dahl concept, occlusal space and alternative management",editorial clarity; clinical meaning unchanged
+FP27-315,I,nonclinical boilerplate removed,B,B,5.1,5.1,Indirect material selection against substrate and space,editorial clarity; clinical meaning unchanged
+FP27-317,I,nonclinical boilerplate removed,C,C,10.3,10.3,"Whitening, composite and veneer case selection",editorial clarity; clinical meaning unchanged
+FP27-323,I,nonclinical boilerplate removed,E,E,2.2,2.2,Tests and post-test probability,editorial clarity; clinical meaning unchanged
+FP27-344,I,nonclinical boilerplate removed,E,E,2.1,2.1,Occlusal records and articulator interpretation,editorial clarity; clinical meaning unchanged
+FP27-368,I,nonclinical boilerplate removed,A,A,5.1,5.1,Indirect material selection against substrate and space,editorial clarity; clinical meaning unchanged
+FP27-380,I,nonclinical boilerplate removed,E,E,7.9,7.9,Implant prosthesis complications and retrievability,editorial clarity; clinical meaning unchanged
+FP27-412,I,nonclinical boilerplate removed,A,A,3.4,3.4,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-425,I,nonclinical boilerplate removed,C,C,3.2,3.2,Risk-based fixed versus implant versus removable,editorial clarity; clinical meaning unchanged
+FP27-431,I,nonclinical boilerplate removed,B,B,5.4,5.4,Biological response to preparation margins,editorial clarity; clinical meaning unchanged
+FP27-433,I,nonclinical boilerplate removed,D,D,3.4,3.4,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-468,I,nonclinical boilerplate removed,C,C,3.4,3.4,Patient preferences and maintenance costs,editorial clarity; clinical meaning unchanged
+FP27-481,I,nonclinical boilerplate removed,E,E,2.1,2.1,Occlusal records and articulator interpretation,editorial clarity; clinical meaning unchanged
+FP27-496,I,nonclinical boilerplate removed,D,D,2.3,2.3,Posterior tooth restorability investigations,editorial clarity; clinical meaning unchanged
+FP27-II-003,II,nonclinical boilerplate removed,E,E,5.6,5.6,Prosthodontic judgement — 5.6,editorial clarity; clinical meaning unchanged
+FP27-II-014,II,nonclinical boilerplate removed,B,B,2.1,2.1,Prosthodontic judgement — 2.1,editorial clarity; clinical meaning unchanged
+FP27-II-020,II,nonclinical boilerplate removed,E,E,3.4,3.4,Prosthodontic judgement — 3.4,editorial clarity; clinical meaning unchanged
+FP27-II-028,II,nonclinical boilerplate removed,C,C,6.4,6.4,Prosthodontic judgement — 6.4,editorial clarity; clinical meaning unchanged
+FP27-II-034,II,nonclinical boilerplate removed,E,E,2.1,2.1,Prosthodontic judgement — 2.1,editorial clarity; clinical meaning unchanged
+FP27-II-036,II,nonclinical boilerplate removed,D,D,3.3,3.3,Prosthodontic judgement — 3.3,editorial clarity; clinical meaning unchanged
+FP27-II-045,II,nonclinical boilerplate removed,E,E,9.6,9.6,Prosthodontic judgement — 9.6,editorial clarity; clinical meaning unchanged
+FP27-II-046,II,nonclinical boilerplate removed,D,D,6.5,6.5,Prosthodontic judgement — 6.5,editorial clarity; clinical meaning unchanged
+FP27-II-050,II,nonclinical boilerplate removed,D,D,5.1,5.1,Prosthodontic judgement — 5.1,editorial clarity; clinical meaning unchanged
+FP27-II-053,II,nonclinical boilerplate removed,C,C,11.2,11.2,Prosthodontic judgement — 11.2,editorial clarity; clinical meaning unchanged
+FP27-II-055,II,nonclinical boilerplate removed,E,E,2.1,2.1,Prosthodontic judgement — 2.1,editorial clarity; clinical meaning unchanged
+FP27-II-059,II,nonclinical boilerplate removed,B,B,7.10,7.10,Prosthodontic judgement — 7.10,editorial clarity; clinical meaning unchanged
+FP27-II-066,II,nonclinical boilerplate removed,A,A,2.1,2.1,Prosthodontic judgement — 2.1,editorial clarity; clinical meaning unchanged
+FP27-II-090,II,nonclinical boilerplate removed,A,A,5.10,5.10,Prosthodontic judgement — 5.10,editorial clarity; clinical meaning unchanged
+FP27-II-091,II,nonclinical boilerplate removed,D,D,7.16,7.16,Prosthodontic judgement — 7.16,editorial clarity; clinical meaning unchanged
+FP27-II-095,II,nonclinical boilerplate removed,A,A,3.4,3.4,Prosthodontic judgement — 3.4,editorial clarity; clinical meaning unchanged
+FP27-II-107,II,nonclinical boilerplate removed,E,E,3.1,3.1,Prosthodontic judgement — 3.1,editorial clarity; clinical meaning unchanged
+FP27-II-112,II,nonclinical boilerplate removed,C,C,1.3,1.3,Prosthodontic judgement — 1.3,editorial clarity; clinical meaning unchanged
+FP27-II-130,II,nonclinical boilerplate removed,C,C,6.5,6.5,Prosthodontic judgement — 6.5,editorial clarity; clinical meaning unchanged
+FP27-II-147,II,nonclinical boilerplate removed,E,E,9.5,9.5,Prosthodontic judgement — 9.5,editorial clarity; clinical meaning unchanged
+FP27-II-152,II,nonclinical boilerplate removed,E,E,1.2,1.2,Prosthodontic judgement — 1.2,editorial clarity; clinical meaning unchanged
+FP27-II-158,II,nonclinical boilerplate removed,D,D,5.5,5.5,Prosthodontic judgement — 5.5,editorial clarity; clinical meaning unchanged
+FP27-II-168,II,nonclinical boilerplate removed,B,B,2.2,2.2,Prosthodontic judgement — 2.2,editorial clarity; clinical meaning unchanged
+FP27-II-177,II,nonclinical boilerplate removed,D,D,1.5,1.5,Prosthodontic judgement — 1.5,editorial clarity; clinical meaning unchanged
+FP27-II-178,II,nonclinical boilerplate removed,A,A,3.4,3.4,Prosthodontic judgement — 3.4,editorial clarity; clinical meaning unchanged
+FP27-II-201,II,nonclinical boilerplate removed,A,A,4.3,4.3,Prosthodontic judgement — 4.3,editorial clarity; clinical meaning unchanged
+FP27-II-205,II,nonclinical boilerplate removed,A,A,1.4,1.4,Prosthodontic judgement — 1.4,editorial clarity; clinical meaning unchanged
+FP27-II-210,II,nonclinical boilerplate removed,E,E,1.3,1.3,Prosthodontic judgement — 1.3,editorial clarity; clinical meaning unchanged
+FP27-II-227,II,nonclinical boilerplate removed,A,A,3.4,3.4,Prosthodontic judgement — 3.4,editorial clarity; clinical meaning unchanged
+FP27-II-247,II,nonclinical boilerplate removed,C,C,6.2,6.2,Prosthodontic judgement — 6.2,editorial clarity; clinical meaning unchanged
+FP27-II-248,II,nonclinical boilerplate removed,B,B,10.1,10.1,Prosthodontic judgement — 10.1,editorial clarity; clinical meaning unchanged
+FP27-II-249,II,nonclinical boilerplate removed,A,A,3.3,3.3,Prosthodontic judgement — 3.3,editorial clarity; clinical meaning unchanged
+FP27-II-251,II,nonclinical boilerplate removed,A,A,2.3,2.3,Prosthodontic judgement — 2.3,editorial clarity; clinical meaning unchanged
+FP27-II-253,II,nonclinical boilerplate removed,C,C,9.8,9.8,Prosthodontic judgement — 9.8,editorial clarity; clinical meaning unchanged
+FP27-II-266,II,nonclinical boilerplate removed,A,A,5.6,5.6,Prosthodontic judgement — 5.6,editorial clarity; clinical meaning unchanged
+FP27-II-268,II,nonclinical boilerplate removed,E,E,3.4,3.4,Prosthodontic judgement — 3.4,editorial clarity; clinical meaning unchanged
+FP27-II-270,II,nonclinical boilerplate removed,B,B,10.2,10.2,Prosthodontic judgement — 10.2,editorial clarity; clinical meaning unchanged
+FP27-II-272,II,nonclinical boilerplate removed,A,A,10.2,10.2,Prosthodontic judgement — 10.2,editorial clarity; clinical meaning unchanged
+FP27-II-275,II,nonclinical boilerplate removed,B,B,5.3,5.3,Prosthodontic judgement — 5.3,editorial clarity; clinical meaning unchanged
+FP27-II-277,II,nonclinical boilerplate removed,B,B,5.1,5.1,Prosthodontic judgement — 5.1,editorial clarity; clinical meaning unchanged
+FP27-II-279,II,nonclinical boilerplate removed,B,B,5.6,5.6,Prosthodontic judgement — 5.6,editorial clarity; clinical meaning unchanged
+FP27-II-289,II,nonclinical boilerplate removed,E,E,6.4,6.4,Prosthodontic judgement — 6.4,editorial clarity; clinical meaning unchanged
+FP27-II-294,II,nonclinical boilerplate removed,E,E,6.2,6.2,Prosthodontic judgement — 6.2,editorial clarity; clinical meaning unchanged
+FP27-II-295,II,nonclinical boilerplate removed,D,D,3.4,3.4,Prosthodontic judgement — 3.4,editorial clarity; clinical meaning unchanged
+FP27-II-299,II,nonclinical boilerplate removed,C,C,8.2,8.2,Prosthodontic judgement — 8.2,editorial clarity; clinical meaning unchanged
+FP27-II-326,II,nonclinical boilerplate removed,A,A,10.2,10.2,Prosthodontic judgement — 10.2,editorial clarity; clinical meaning unchanged
+FP27-II-327,II,nonclinical boilerplate removed,B,B,1.4,1.4,Prosthodontic judgement — 1.4,editorial clarity; clinical meaning unchanged
+FP27-II-335,II,nonclinical boilerplate removed,E,E,7.4,7.4,Prosthodontic judgement — 7.4,editorial clarity; clinical meaning unchanged
+FP27-II-354,II,nonclinical boilerplate removed,A,A,7.1,7.1,Prosthodontic judgement — 7.1,editorial clarity; clinical meaning unchanged
+FP27-II-360,II,nonclinical boilerplate removed,A,A,7.17,7.17,Prosthodontic judgement — 7.17,editorial clarity; clinical meaning unchanged
+FP27-II-372,II,nonclinical boilerplate removed,E,E,3.2,3.2,Prosthodontic judgement — 3.2,editorial clarity; clinical meaning unchanged
+FP27-II-403,II,nonclinical boilerplate removed,B,B,7.8,7.8,Prosthodontic judgement — 7.8,editorial clarity; clinical meaning unchanged
+FP27-II-412,II,nonclinical boilerplate removed,A,A,3.4,3.4,Prosthodontic judgement — 3.4,editorial clarity; clinical meaning unchanged
+FP27-II-421,II,nonclinical boilerplate removed,B,B,5.9,5.9,Prosthodontic judgement — 5.9,editorial clarity; clinical meaning unchanged
+FP27-II-428,II,nonclinical boilerplate removed,D,D,6.7,6.7,Prosthodontic judgement — 6.7,editorial clarity; clinical meaning unchanged
+FP27-II-432,II,nonclinical boilerplate removed,A,A,13.1,13.1,Prosthodontic judgement — 13.1,editorial clarity; clinical meaning unchanged
+FP27-II-433,II,nonclinical boilerplate removed,B,B,2.1,2.1,Prosthodontic judgement — 2.1,editorial clarity; clinical meaning unchanged
+FP27-II-443,II,nonclinical boilerplate removed,D,D,5.5,5.5,Prosthodontic judgement — 5.5,editorial clarity; clinical meaning unchanged
+FP27-II-445,II,nonclinical boilerplate removed,B,B,4.1,4.1,Prosthodontic judgement — 4.1,editorial clarity; clinical meaning unchanged
+FP27-II-447,II,nonclinical boilerplate removed,E,E,2.1,2.1,Prosthodontic judgement — 2.1,editorial clarity; clinical meaning unchanged
+FP27-II-448,II,nonclinical boilerplate removed,E,E,6.4,6.4,Prosthodontic judgement — 6.4,editorial clarity; clinical meaning unchanged
+FP27-II-450,II,nonclinical boilerplate removed,B,B,4.3,4.3,Prosthodontic judgement — 4.3,editorial clarity; clinical meaning unchanged
+FP27-II-145,II,reconstructed duplicate after stem cleanup,A,C,10.1,10.1,Prosthodontic judgement — 10.1,existing bank rationale; not externally validated
+FP27-II-381,II,reconstructed duplicate after stem cleanup,C,A,9.4,9.4,Prosthodontic judgement — 9.4,existing bank rationale; not externally validated
+FP27-II-020,II,reconstructed duplicate after stem cleanup,E,C,3.4,3.4,Prosthodontic judgement — 3.4,existing bank rationale; not externally validated
+FP27-359,I,reconstructed duplicate after stem cleanup,B,D,1.1,1.1,Residual ridge and prosthesis choice,existing bank rationale; not externally validated
+FP27-II-028,II,reconstructed duplicate after stem cleanup,C,A,6.4,6.4,Prosthodontic judgement — 6.4,existing bank rationale; not externally validated
+FP27-II-326,II,reconstructed duplicate after stem cleanup,A,C,10.2,10.2,Prosthodontic judgement — 10.2,existing bank rationale; not externally validated
+FP27-II-247,II,reconstructed duplicate after stem cleanup,C,B,6.2,6.2,Prosthodontic judgement — 6.2,existing bank rationale; not externally validated
+FP27-II-299,II,reconstructed duplicate after stem cleanup,C,D,8.2,8.2,Prosthodontic judgement — 8.2,existing bank rationale; not externally validated
+FP27-II-387,II,reconstructed duplicate after stem cleanup,D,A,9.7,9.7,Prosthodontic judgement — 9.7,existing bank rationale; not externally validated
+FP27-II-152,II,reconstructed duplicate after stem cleanup,E,D,1.2,1.2,Prosthodontic judgement — 1.2,existing bank rationale; not externally validated
+FP27-II-118,II,reconstructed duplicate after stem cleanup,E,A,2.2,2.2,Prosthodontic judgement — 2.2,existing bank rationale; not externally validated
+FP27-II-428,II,reconstructed duplicate after stem cleanup,D,B,6.7,6.7,Prosthodontic judgement — 6.7,existing bank rationale; not externally validated
+FP27-II-447,II,reconstructed duplicate after stem cleanup,E,B,2.1,2.1,Prosthodontic judgement — 2.1,existing bank rationale; not externally validated
+FP27-II-445,II,reconstructed duplicate after stem cleanup,B,D,4.1,4.1,Prosthodontic judgement — 4.1,existing bank rationale; not externally validated
+FP27-II-272,II,reconstructed duplicate after stem cleanup,A,E,10.2,10.2,Prosthodontic judgement — 10.2,existing bank rationale; not externally validated
+FP27-II-034,II,reconstructed duplicate after stem cleanup,E,D,2.1,2.1,Prosthodontic judgement — 2.1,existing bank rationale; not externally validated
+FP27-II-181,II,reconstructed duplicate after stem cleanup,B,A,7.9,7.9,Prosthodontic judgement — 7.9,existing bank rationale; not externally validated
+FP27-II-177,II,reconstructed duplicate after stem cleanup,D,B,1.5,1.5,Prosthodontic judgement — 1.5,existing bank rationale; not externally validated
+FP27-II-205,II,reconstructed duplicate after stem cleanup,A,B,1.4,1.4,Prosthodontic judgement — 1.4,existing bank rationale; not externally validated
+FP27-II-448,II,reconstructed duplicate after stem cleanup,E,D,6.4,6.4,Prosthodontic judgement — 6.4,existing bank rationale; not externally validated
+FP27-II-130,II,reconstructed duplicate after stem cleanup,C,E,6.5,6.5,Prosthodontic judgement — 6.5,existing bank rationale; not externally validated
+FP27-II-046,II,reconstructed duplicate after stem cleanup,D,B,6.5,6.5,Prosthodontic judgement — 6.5,existing bank rationale; not externally validated
+FP27-II-112,II,reconstructed duplicate after stem cleanup,C,A,1.3,1.3,Prosthodontic judgement — 1.3,existing bank rationale; not externally validated
+FP27-II-231,II,reconstructed duplicate after stem cleanup,C,B,5.9,5.9,Prosthodontic judgement — 5.9,existing bank rationale; not externally validated
+FP27-II-408,II,reconstructed duplicate after stem cleanup,E,D,3.1,3.1,Prosthodontic judgement — 3.1,existing bank rationale; not externally validated
+FP27-II-322,II,reconstructed duplicate after stem cleanup,E,D,9.5,9.5,Prosthodontic judgement — 9.5,existing bank rationale; not externally validated
+FP27-II-354,II,reconstructed duplicate after stem cleanup,A,D,7.1,7.1,Prosthodontic judgement — 7.1,existing bank rationale; not externally validated
+FP27-II-318,II,explicitly reauthored duplicate,A,D,3.2,3.2,Prosthodontic judgement — 3.2,clinical editorial scenario; not externally validated
+FP27-II-412,II,explicitly reauthored duplicate,A,E,3.4,3.4,Prosthodontic judgement — 3.4,clinical editorial scenario; not externally validated
+FP27-III-068,III,removed meta second-opinion scaffolding,E,E,9.5,9.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-069,III,removed meta second-opinion scaffolding,C,C,8.1,8.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-075,III,removed meta second-opinion scaffolding,A,A,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-076,III,removed meta second-opinion scaffolding,C,C,10.2,10.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-077,III,removed meta second-opinion scaffolding,B,B,1.3,1.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-078,III,removed meta second-opinion scaffolding,B,B,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-082,III,removed meta second-opinion scaffolding,E,E,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-083,III,removed meta second-opinion scaffolding,C,C,5.4,5.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-084,III,removed meta second-opinion scaffolding,D,D,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-087,III,removed meta second-opinion scaffolding,E,E,9.2,9.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-088,III,removed meta second-opinion scaffolding,D,D,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-092,III,removed meta second-opinion scaffolding,D,D,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-095,III,removed meta second-opinion scaffolding,B,B,13.1,13.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-096,III,removed meta second-opinion scaffolding,A,A,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-099,III,removed meta second-opinion scaffolding,B,B,3.1,3.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-101,III,removed meta second-opinion scaffolding,C,C,3.3,3.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-103,III,removed meta second-opinion scaffolding,C,C,3.2,3.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-104,III,removed meta second-opinion scaffolding,E,E,11.1,11.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-105,III,removed meta second-opinion scaffolding,E,E,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-106,III,removed meta second-opinion scaffolding,D,D,8.2,8.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-108,III,removed meta second-opinion scaffolding,C,C,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-111,III,removed meta second-opinion scaffolding,A,A,7.14,7.14,,candidate-facing style correction; clinical key not revalidated
+FP27-III-113,III,removed meta second-opinion scaffolding,B,B,7.5,7.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-116,III,removed meta second-opinion scaffolding,E,E,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-117,III,removed meta second-opinion scaffolding,B,B,5.12,5.12,,candidate-facing style correction; clinical key not revalidated
+FP27-III-118,III,removed meta second-opinion scaffolding,B,B,12.2,12.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-120,III,removed meta second-opinion scaffolding,C,C,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-124,III,removed meta second-opinion scaffolding,A,A,10.1,10.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-126,III,removed meta second-opinion scaffolding,B,B,2.1,2.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-127,III,removed meta second-opinion scaffolding,B,B,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-129,III,removed meta second-opinion scaffolding,C,C,11.2,11.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-130,III,removed meta second-opinion scaffolding,C,C,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-131,III,removed meta second-opinion scaffolding,A,A,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-133,III,removed meta second-opinion scaffolding,C,C,4.2,4.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-136,III,removed meta second-opinion scaffolding,D,D,2.3,2.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-139,III,removed meta second-opinion scaffolding,A,A,5.3,5.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-144,III,removed meta second-opinion scaffolding,E,E,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-145,III,removed meta second-opinion scaffolding,A,A,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-146,III,removed meta second-opinion scaffolding,E,E,1.5,1.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-147,III,removed meta second-opinion scaffolding,C,C,8.1,8.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-148,III,removed meta second-opinion scaffolding,B,B,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-150,III,removed meta second-opinion scaffolding,C,C,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-151,III,removed meta second-opinion scaffolding,C,C,Supplementary,Supplementary,,candidate-facing style correction; clinical key not revalidated
+FP27-III-155,III,removed meta second-opinion scaffolding,E,E,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-157,III,removed meta second-opinion scaffolding,C,C,9.5,9.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-159,III,removed meta second-opinion scaffolding,D,D,4.1,4.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-164,III,removed meta second-opinion scaffolding,B,B,13.2,13.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-167,III,removed meta second-opinion scaffolding,D,D,10.3,10.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-169,III,removed meta second-opinion scaffolding,C,C,7.9,7.9,,candidate-facing style correction; clinical key not revalidated
+FP27-III-178,III,removed meta second-opinion scaffolding,A,A,9.2,9.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-180,III,removed meta second-opinion scaffolding,B,B,1.3,1.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-182,III,removed meta second-opinion scaffolding,B,B,7.10,7.10,,candidate-facing style correction; clinical key not revalidated
+FP27-III-183,III,removed meta second-opinion scaffolding,B,B,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-187,III,removed meta second-opinion scaffolding,B,B,9.5,9.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-188,III,removed meta second-opinion scaffolding,E,E,3.2,3.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-189,III,removed meta second-opinion scaffolding,A,A,5.4,5.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-192,III,removed meta second-opinion scaffolding,A,A,3.3,3.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-202,III,removed meta second-opinion scaffolding,C,C,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-210,III,removed meta second-opinion scaffolding,A,A,7.5,7.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-211,III,removed meta second-opinion scaffolding,A,A,9.2,9.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-212,III,removed meta second-opinion scaffolding,C,C,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-213,III,removed meta second-opinion scaffolding,B,B,11.1,11.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-216,III,removed meta second-opinion scaffolding,D,D,8.2,8.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-217,III,removed meta second-opinion scaffolding,E,E,4.1,4.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-218,III,removed meta second-opinion scaffolding,A,A,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-220,III,removed meta second-opinion scaffolding,C,C,1.1,1.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-221,III,removed meta second-opinion scaffolding,E,E,12.4,12.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-222,III,removed meta second-opinion scaffolding,C,C,Supplementary,Supplementary,,candidate-facing style correction; clinical key not revalidated
+FP27-III-224,III,removed meta second-opinion scaffolding,D,D,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-227,III,removed meta second-opinion scaffolding,B,B,12.2,12.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-228,III,removed meta second-opinion scaffolding,D,D,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-229,III,removed meta second-opinion scaffolding,C,C,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-232,III,removed meta second-opinion scaffolding,B,B,10.1,10.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-235,III,removed meta second-opinion scaffolding,C,C,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-238,III,removed meta second-opinion scaffolding,D,D,11.2,11.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-241,III,removed meta second-opinion scaffolding,A,A,3.1,3.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-243,III,removed meta second-opinion scaffolding,B,B,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-247,III,removed meta second-opinion scaffolding,C,C,2.3,2.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-249,III,removed meta second-opinion scaffolding,A,A,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-250,III,removed meta second-opinion scaffolding,D,D,7.9,7.9,,candidate-facing style correction; clinical key not revalidated
+FP27-III-252,III,removed meta second-opinion scaffolding,E,E,13.1,13.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-254,III,removed meta second-opinion scaffolding,A,A,1.5,1.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-255,III,removed meta second-opinion scaffolding,C,C,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-259,III,removed meta second-opinion scaffolding,A,A,5.3,5.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-264,III,removed meta second-opinion scaffolding,B,B,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-265,III,removed meta second-opinion scaffolding,E,E,8.1,8.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-266,III,removed meta second-opinion scaffolding,A,A,10.2,10.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-267,III,removed meta second-opinion scaffolding,A,A,2.1,2.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-268,III,removed meta second-opinion scaffolding,E,E,4.2,4.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-269,III,removed meta second-opinion scaffolding,D,D,1.3,1.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-270,III,removed meta second-opinion scaffolding,D,D,3.4,3.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-271,III,removed meta second-opinion scaffolding,E,E,7.5,7.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-272,III,removed meta second-opinion scaffolding,C,C,3.4,3.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-273,III,removed meta second-opinion scaffolding,B,B,7.9,7.9,,candidate-facing style correction; clinical key not revalidated
+FP27-III-274,III,removed meta second-opinion scaffolding,E,E,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-275,III,removed meta second-opinion scaffolding,D,D,12.4,12.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-277,III,removed meta second-opinion scaffolding,A,A,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-278,III,removed meta second-opinion scaffolding,E,E,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-280,III,removed meta second-opinion scaffolding,B,B,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-281,III,removed meta second-opinion scaffolding,E,E,4.2,4.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-282,III,removed meta second-opinion scaffolding,B,B,3.2,3.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-284,III,removed meta second-opinion scaffolding,B,B,11.1,11.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-287,III,removed meta second-opinion scaffolding,E,E,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-288,III,removed meta second-opinion scaffolding,E,E,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-289,III,removed meta second-opinion scaffolding,E,E,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-291,III,removed meta second-opinion scaffolding,C,C,1.1,1.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-292,III,removed meta second-opinion scaffolding,A,A,12.2,12.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-293,III,removed meta second-opinion scaffolding,D,D,10.3,10.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-294,III,removed meta second-opinion scaffolding,C,C,3.1,3.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-300,III,removed meta second-opinion scaffolding,A,A,7.10,7.10,,candidate-facing style correction; clinical key not revalidated
+FP27-III-301,III,removed meta second-opinion scaffolding,C,C,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-304,III,removed meta second-opinion scaffolding,B,B,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-305,III,removed meta second-opinion scaffolding,E,E,1.5,1.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-312,III,removed meta second-opinion scaffolding,E,E,8.1,8.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-313,III,removed meta second-opinion scaffolding,E,E,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-322,III,removed meta second-opinion scaffolding,C,C,2.1,2.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-323,III,removed meta second-opinion scaffolding,C,C,8.2,8.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-324,III,removed meta second-opinion scaffolding,E,E,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-325,III,removed meta second-opinion scaffolding,E,E,10.2,10.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-326,III,removed meta second-opinion scaffolding,B,B,7.14,7.14,,candidate-facing style correction; clinical key not revalidated
+FP27-III-329,III,removed meta second-opinion scaffolding,B,B,9.5,9.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-334,III,removed meta second-opinion scaffolding,C,C,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-337,III,removed meta second-opinion scaffolding,D,D,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-338,III,removed meta second-opinion scaffolding,C,C,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-340,III,removed meta second-opinion scaffolding,A,A,Supplementary,Supplementary,,candidate-facing style correction; clinical key not revalidated
+FP27-III-345,III,removed meta second-opinion scaffolding,C,C,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-349,III,removed meta second-opinion scaffolding,C,C,10.1,10.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-353,III,removed meta second-opinion scaffolding,E,E,13.2,13.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-354,III,removed meta second-opinion scaffolding,C,C,5.12,5.12,,candidate-facing style correction; clinical key not revalidated
+FP27-III-355,III,removed meta second-opinion scaffolding,E,E,5.4,5.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-359,III,removed meta second-opinion scaffolding,E,E,2.3,2.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-361,III,removed meta second-opinion scaffolding,E,E,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-363,III,removed meta second-opinion scaffolding,A,A,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-364,III,removed meta second-opinion scaffolding,E,E,4.1,4.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-370,III,removed meta second-opinion scaffolding,C,C,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-371,III,removed meta second-opinion scaffolding,E,E,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-372,III,removed meta second-opinion scaffolding,C,C,11.2,11.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-373,III,removed meta second-opinion scaffolding,D,D,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-374,III,removed meta second-opinion scaffolding,D,D,7.9,7.9,,candidate-facing style correction; clinical key not revalidated
+FP27-III-375,III,removed meta second-opinion scaffolding,A,A,7.10,7.10,,candidate-facing style correction; clinical key not revalidated
+FP27-III-378,III,removed meta second-opinion scaffolding,E,E,10.3,10.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-381,III,removed meta second-opinion scaffolding,E,E,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-382,III,removed meta second-opinion scaffolding,A,A,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-384,III,removed meta second-opinion scaffolding,E,E,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-389,III,removed meta second-opinion scaffolding,D,D,3.1,3.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-390,III,removed meta second-opinion scaffolding,C,C,12.2,12.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-393,III,removed meta second-opinion scaffolding,A,A,3.3,3.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-394,III,removed meta second-opinion scaffolding,D,D,7.14,7.14,,candidate-facing style correction; clinical key not revalidated
+FP27-III-395,III,removed meta second-opinion scaffolding,B,B,Supplementary,Supplementary,,candidate-facing style correction; clinical key not revalidated
+FP27-III-396,III,removed meta second-opinion scaffolding,A,A,5.4,5.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-398,III,removed meta second-opinion scaffolding,B,B,1.5,1.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-399,III,removed meta second-opinion scaffolding,A,A,12.4,12.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-409,III,removed meta second-opinion scaffolding,B,B,13.1,13.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-412,III,removed meta second-opinion scaffolding,A,A,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-414,III,removed meta second-opinion scaffolding,D,D,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-418,III,removed meta second-opinion scaffolding,C,C,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-421,III,removed meta second-opinion scaffolding,A,A,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-422,III,removed meta second-opinion scaffolding,B,B,9.2,9.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-424,III,removed meta second-opinion scaffolding,E,E,10.1,10.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-427,III,removed meta second-opinion scaffolding,B,B,1.3,1.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-428,III,removed meta second-opinion scaffolding,C,C,13.2,13.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-431,III,removed meta second-opinion scaffolding,D,D,5.12,5.12,,candidate-facing style correction; clinical key not revalidated
+FP27-III-435,III,removed meta second-opinion scaffolding,B,B,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-437,III,removed meta second-opinion scaffolding,B,B,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-438,III,removed meta second-opinion scaffolding,D,D,2.1,2.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-440,III,removed meta second-opinion scaffolding,B,B,1.1,1.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-442,III,removed meta second-opinion scaffolding,D,D,10.2,10.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-443,III,removed meta second-opinion scaffolding,C,C,3.4,3.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-446,III,removed meta second-opinion scaffolding,C,C,5.3,5.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-448,III,removed meta second-opinion scaffolding,E,E,8.2,8.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-450,III,removed meta second-opinion scaffolding,A,A,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-451,III,removed meta second-opinion scaffolding,A,A,10.2,10.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-452,III,removed meta second-opinion scaffolding,E,E,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-453,III,removed meta second-opinion scaffolding,A,A,8.1,8.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-454,III,removed meta second-opinion scaffolding,B,B,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-455,III,removed meta second-opinion scaffolding,D,D,5.3,5.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-456,III,removed meta second-opinion scaffolding,E,E,9.2,9.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-457,III,removed meta second-opinion scaffolding,D,D,3.1,3.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-458,III,removed meta second-opinion scaffolding,B,B,12.2,12.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-459,III,removed meta second-opinion scaffolding,C,C,7.5,7.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-460,III,removed meta second-opinion scaffolding,A,A,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-461,III,removed meta second-opinion scaffolding,C,C,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-462,III,removed meta second-opinion scaffolding,A,A,3.2,3.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-463,III,removed meta second-opinion scaffolding,B,B,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-464,III,removed meta second-opinion scaffolding,A,A,11.2,11.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-465,III,removed meta second-opinion scaffolding,E,E,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-466,III,removed meta second-opinion scaffolding,E,E,1.1,1.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-467,III,removed meta second-opinion scaffolding,B,B,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-468,III,removed meta second-opinion scaffolding,E,E,9.1,9.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-469,III,removed meta second-opinion scaffolding,A,A,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-470,III,removed meta second-opinion scaffolding,C,C,5.4,5.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-471,III,removed meta second-opinion scaffolding,B,B,12.4,12.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-472,III,removed meta second-opinion scaffolding,A,A,2.3,2.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-473,III,removed meta second-opinion scaffolding,A,A,1.4,1.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-474,III,removed meta second-opinion scaffolding,A,A,7.9,7.9,,candidate-facing style correction; clinical key not revalidated
+FP27-III-475,III,removed meta second-opinion scaffolding,A,A,3.3,3.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-476,III,removed meta second-opinion scaffolding,D,D,7.10,7.10,,candidate-facing style correction; clinical key not revalidated
+FP27-III-477,III,removed meta second-opinion scaffolding,B,B,13.2,13.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-478,III,removed meta second-opinion scaffolding,D,D,10.1,10.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-479,III,removed meta second-opinion scaffolding,E,E,6.2,6.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-480,III,removed meta second-opinion scaffolding,E,E,5.12,5.12,,candidate-facing style correction; clinical key not revalidated
+FP27-III-481,III,removed meta second-opinion scaffolding,C,C,8.2,8.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-482,III,removed meta second-opinion scaffolding,A,A,5.6,5.6,,candidate-facing style correction; clinical key not revalidated
+FP27-III-483,III,removed meta second-opinion scaffolding,D,D,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-484,III,removed meta second-opinion scaffolding,C,C,9.5,9.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-485,III,removed meta second-opinion scaffolding,D,D,10.3,10.3,,candidate-facing style correction; clinical key not revalidated
+FP27-III-486,III,removed meta second-opinion scaffolding,B,B,4.2,4.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-487,III,removed meta second-opinion scaffolding,D,D,11.1,11.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-488,III,removed meta second-opinion scaffolding,E,E,Supplementary,Supplementary,,candidate-facing style correction; clinical key not revalidated
+FP27-III-489,III,removed meta second-opinion scaffolding,B,B,5.2,5.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-490,III,removed meta second-opinion scaffolding,E,E,1.5,1.5,,candidate-facing style correction; clinical key not revalidated
+FP27-III-491,III,removed meta second-opinion scaffolding,B,B,2.2,2.2,,candidate-facing style correction; clinical key not revalidated
+FP27-III-492,III,removed meta second-opinion scaffolding,A,A,7.14,7.14,,candidate-facing style correction; clinical key not revalidated
+FP27-III-493,III,removed meta second-opinion scaffolding,C,C,6.4,6.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-494,III,removed meta second-opinion scaffolding,A,A,2.1,2.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-495,III,removed meta second-opinion scaffolding,B,B,4.1,4.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-496,III,removed meta second-opinion scaffolding,E,E,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-497,III,removed meta second-opinion scaffolding,D,D,13.1,13.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-498,III,removed meta second-opinion scaffolding,B,B,7.1,7.1,,candidate-facing style correction; clinical key not revalidated
+FP27-III-499,III,removed meta second-opinion scaffolding,D,D,3.4,3.4,,candidate-facing style correction; clinical key not revalidated
+FP27-III-500,III,removed meta second-opinion scaffolding,B,B,1.3,1.3,,candidate-facing style correction; clinical key not revalidated
